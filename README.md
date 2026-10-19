@@ -1,4 +1,6 @@
-# React + Vite
+# WanderWise
+
+[Live preview](https://rajagr-awal.github.io/WanderWise.2/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
